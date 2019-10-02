@@ -1,0 +1,25 @@
+dowload git : https://git-scm.com/download/win
+config git :
+$git config --gload user.name "Quang Phuc"
+$git config --global user.email "lamquangphuc1996@gmail.com"
+$cd thu_muc_chua_source_code
+$git init
+$git clone https://github.com/Quang-Phuc/Ominext.git (dd git)
+// tao branch
+----------------
+( neu lan dau thi tao 1 file sau do commit de tao branch master
+$git add .
+$git commit -m "a"
+------------
+
+$git branch phuclq // tap branch
+// chuyen su dung brach
+$git checkout phuclq 
+------------
+sau do ms vao sua code ( khi branch la phuclq)
+// commit file sua 
+$git add .
+$git status
+git commit -m "message"
+git pull orgin master // chua chac
+git push duong_dan_sinh_ra
