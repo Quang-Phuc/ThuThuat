@@ -1,0 +1,4 @@
+- Tao Git bang Gittortoise
+git clone : de lay source code ve : // duong dan chua file git
+tao branh :  Chuot phai -> TortoiesGit ->create Branch : dien ten vao Branch và tích Swith to new branch
+meger : chuot phai chon use ..  -> re : https://www.youtube.com/watch?v=lfl9apeOfOMf
